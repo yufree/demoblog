@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://yufree.github.io/demoblog/sitemap.xml 
